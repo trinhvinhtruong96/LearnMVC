@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MQnDudqg+rjvc0jbHC6vT5xi5bL8s0IoTzq9cF1B15gEAEEtKaUKr/a/VmX4cIBHXjkdNFrk8EiHxZ/lr7O3ZQ==",
+  "success": true,
+  "projectFilePath": "F:\\project\\LearnMVC\\WebApp.Infrastructure\\WebApp.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hi-XV\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Hi-XV\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

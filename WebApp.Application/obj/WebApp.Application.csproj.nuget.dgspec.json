@@ -1,0 +1,352 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\project\\LearnMVC\\WebApp.Application\\WebApp.Application.csproj": {}
+  },
+  "projects": {
+    "F:\\project\\LearnMVC\\WebApp.Application\\WebApp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\project\\LearnMVC\\WebApp.Application\\WebApp.Application.csproj",
+        "projectName": "WebApp.Application",
+        "projectPath": "F:\\project\\LearnMVC\\WebApp.Application\\WebApp.Application.csproj",
+        "packagesPath": "C:\\Users\\Hi-XV\\.nuget\\packages\\",
+        "outputPath": "F:\\project\\LearnMVC\\WebApp.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hi-XV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "F:\\project\\LearnMVC\\WebApp.Data.EF\\WebApp.Data.EF.csproj": {
+                "projectPath": "F:\\project\\LearnMVC\\WebApp.Data.EF\\WebApp.Data.EF.csproj"
+              },
+              "F:\\project\\LearnMVC\\WebApp.Data\\WebApp.Data.csproj": {
+                "projectPath": "F:\\project\\LearnMVC\\WebApp.Data\\WebApp.Data.csproj"
+              },
+              "F:\\project\\LearnMVC\\WebApp.Utilities\\WebApp.Utilities.csproj": {
+                "projectPath": "F:\\project\\LearnMVC\\WebApp.Utilities\\WebApp.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\project\\LearnMVC\\WebApp.Data.EF\\WebApp.Data.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\project\\LearnMVC\\WebApp.Data.EF\\WebApp.Data.EF.csproj",
+        "projectName": "WebApp.Data.EF",
+        "projectPath": "F:\\project\\LearnMVC\\WebApp.Data.EF\\WebApp.Data.EF.csproj",
+        "packagesPath": "C:\\Users\\Hi-XV\\.nuget\\packages\\",
+        "outputPath": "F:\\project\\LearnMVC\\WebApp.Data.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hi-XV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "F:\\project\\LearnMVC\\WebApp.Data\\WebApp.Data.csproj": {
+                "projectPath": "F:\\project\\LearnMVC\\WebApp.Data\\WebApp.Data.csproj"
+              },
+              "F:\\project\\LearnMVC\\WebApp.Infrastructure\\WebApp.Infrastructure.csproj": {
+                "projectPath": "F:\\project\\LearnMVC\\WebApp.Infrastructure\\WebApp.Infrastructure.csproj"
+              },
+              "F:\\project\\LearnMVC\\WebApp.Utilities\\WebApp.Utilities.csproj": {
+                "projectPath": "F:\\project\\LearnMVC\\WebApp.Utilities\\WebApp.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\project\\LearnMVC\\WebApp.Data\\WebApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\project\\LearnMVC\\WebApp.Data\\WebApp.Data.csproj",
+        "projectName": "WebApp.Data",
+        "projectPath": "F:\\project\\LearnMVC\\WebApp.Data\\WebApp.Data.csproj",
+        "packagesPath": "C:\\Users\\Hi-XV\\.nuget\\packages\\",
+        "outputPath": "F:\\project\\LearnMVC\\WebApp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hi-XV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "F:\\project\\LearnMVC\\WebApp.Infrastructure\\WebApp.Infrastructure.csproj": {
+                "projectPath": "F:\\project\\LearnMVC\\WebApp.Infrastructure\\WebApp.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\project\\LearnMVC\\WebApp.Infrastructure\\WebApp.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\project\\LearnMVC\\WebApp.Infrastructure\\WebApp.Infrastructure.csproj",
+        "projectName": "WebApp.Infrastructure",
+        "projectPath": "F:\\project\\LearnMVC\\WebApp.Infrastructure\\WebApp.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Hi-XV\\.nuget\\packages\\",
+        "outputPath": "F:\\project\\LearnMVC\\WebApp.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hi-XV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\project\\LearnMVC\\WebApp.Utilities\\WebApp.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\project\\LearnMVC\\WebApp.Utilities\\WebApp.Utilities.csproj",
+        "projectName": "WebApp.Utilities",
+        "projectPath": "F:\\project\\LearnMVC\\WebApp.Utilities\\WebApp.Utilities.csproj",
+        "packagesPath": "C:\\Users\\Hi-XV\\.nuget\\packages\\",
+        "outputPath": "F:\\project\\LearnMVC\\WebApp.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hi-XV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
