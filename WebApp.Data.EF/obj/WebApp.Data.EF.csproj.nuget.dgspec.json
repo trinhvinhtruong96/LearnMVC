@@ -21,14 +21,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "netcoreapp2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
+          "netcoreapp2.0": {
             "projectReferences": {
               "F:\\project\\LearnMVC\\WebApp.Data\\WebApp.Data.csproj": {
                 "projectPath": "F:\\project\\LearnMVC\\WebApp.Data\\WebApp.Data.csproj"
@@ -49,16 +49,28 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
+        "netcoreapp2.0": {
           "dependencies": {
             "Microsoft.AspNetCore.Identity": {
               "target": "Package",
               "version": "[2.0.0, )"
             },
-            "NETStandard.Library": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.0.3, )",
+              "version": "[2.0.0, )",
               "autoReferenced": true
             }
           },
@@ -93,14 +105,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "netcoreapp2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
+          "netcoreapp2.0": {
             "projectReferences": {
               "F:\\project\\LearnMVC\\WebApp.Infrastructure\\WebApp.Infrastructure.csproj": {
                 "projectPath": "F:\\project\\LearnMVC\\WebApp.Infrastructure\\WebApp.Infrastructure.csproj"
@@ -115,7 +127,7 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
+        "netcoreapp2.0": {
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
@@ -139,10 +151,10 @@
               "target": "Package",
               "version": "[2.0.0, )"
             },
-            "NETStandard.Library": {
+            "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.0.3, )",
+              "version": "[2.0.0, )",
               "autoReferenced": true
             }
           },
@@ -177,14 +189,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "netcoreapp2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
+          "netcoreapp2.0": {
             "projectReferences": {}
           }
         },
@@ -195,12 +207,12 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
+        "netcoreapp2.0": {
           "dependencies": {
-            "NETStandard.Library": {
+            "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.0.3, )",
+              "version": "[2.0.0, )",
               "autoReferenced": true
             }
           },
@@ -235,14 +247,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "netcoreapp2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
+          "netcoreapp2.0": {
             "projectReferences": {}
           }
         },
@@ -253,12 +265,12 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
+        "netcoreapp2.0": {
           "dependencies": {
-            "NETStandard.Library": {
+            "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.0.3, )",
+              "version": "[2.0.0, )",
               "autoReferenced": true
             }
           },

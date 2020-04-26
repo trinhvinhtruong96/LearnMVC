@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using WebApp.Infrastructure.SharedKernel;
 
@@ -7,9 +8,7 @@ namespace WebApp.Data.Entities
     [Table("Permissions")]
     public class Permission : DomainEntity<int>
     {
-        [StringLength(450)]
-        [Required]
-        public string RoleId { get; set; }
+        public Guid RoleId { get; set; }
 
         [StringLength(128)]
         [Required]

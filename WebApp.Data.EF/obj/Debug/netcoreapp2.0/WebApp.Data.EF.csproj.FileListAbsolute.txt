@@ -1,0 +1,16 @@
+F:\project\LearnMVC\WebApp.Data.EF\bin\Debug\netcoreapp2.0\WebApp.Data.EF.deps.json
+F:\project\LearnMVC\WebApp.Data.EF\bin\Debug\netcoreapp2.0\WebApp.Data.EF.dll
+F:\project\LearnMVC\WebApp.Data.EF\bin\Debug\netcoreapp2.0\WebApp.Data.EF.pdb
+F:\project\LearnMVC\WebApp.Data.EF\bin\Debug\netcoreapp2.0\WebApp.Data.dll
+F:\project\LearnMVC\WebApp.Data.EF\bin\Debug\netcoreapp2.0\WebApp.Infrastructure.dll
+F:\project\LearnMVC\WebApp.Data.EF\bin\Debug\netcoreapp2.0\WebApp.Utilities.dll
+F:\project\LearnMVC\WebApp.Data.EF\bin\Debug\netcoreapp2.0\WebApp.Infrastructure.pdb
+F:\project\LearnMVC\WebApp.Data.EF\bin\Debug\netcoreapp2.0\WebApp.Utilities.pdb
+F:\project\LearnMVC\WebApp.Data.EF\bin\Debug\netcoreapp2.0\WebApp.Data.pdb
+F:\project\LearnMVC\WebApp.Data.EF\obj\Debug\netcoreapp2.0\WebApp.Data.EF.csprojAssemblyReference.cache
+F:\project\LearnMVC\WebApp.Data.EF\obj\Debug\netcoreapp2.0\WebApp.Data.EF.csproj.CoreCompileInputs.cache
+F:\project\LearnMVC\WebApp.Data.EF\obj\Debug\netcoreapp2.0\WebApp.Data.EF.AssemblyInfoInputs.cache
+F:\project\LearnMVC\WebApp.Data.EF\obj\Debug\netcoreapp2.0\WebApp.Data.EF.AssemblyInfo.cs
+F:\project\LearnMVC\WebApp.Data.EF\obj\Debug\netcoreapp2.0\WebApp.Data.EF.csproj.CopyComplete
+F:\project\LearnMVC\WebApp.Data.EF\obj\Debug\netcoreapp2.0\WebApp.Data.EF.dll
+F:\project\LearnMVC\WebApp.Data.EF\obj\Debug\netcoreapp2.0\WebApp.Data.EF.pdb

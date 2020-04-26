@@ -1,9 +1,12 @@
 using System;
+using System.IO;
 using System.Linq;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
+using Microsoft.EntityFrameworkCore.Design;
+using Microsoft.Extensions.Configuration;
 using WebApp.Data.EF.Configurations;
 using WebApp.Data.EF.Extensions;
 using WebApp.Data.Entities;
@@ -53,17 +56,17 @@ namespace WebApp.Data.EF
         public DbSet<AdvertistmentPosition> AdvertistmentPositions { get; set; }
         protected override void OnModelCreating(ModelBuilder builder)
         {
-            builder.Entity<IdentityUserClaim<string>>().ToTable("AppUserClaims").HasKey(x => x.Id);
+            builder.Entity<IdentityUserClaim<Guid>>().ToTable("AppUserClaims").HasKey(x => x.Id);
 
-            builder.Entity<IdentityRoleClaim<string>>().ToTable("AppRoleClaims")
+            builder.Entity<IdentityRoleClaim<Guid>>().ToTable("AppRoleClaims")
                 .HasKey(x => x.Id);
 
-            builder.Entity<IdentityUserLogin<string>>().ToTable("AppUserLogins").HasKey(x => x.UserId);
+            builder.Entity<IdentityUserLogin<Guid>>().ToTable("AppUserLogins").HasKey(x => x.UserId);
 
-            builder.Entity<IdentityUserRole<string>>().ToTable("AppUserRoles")
+            builder.Entity<IdentityUserRole<Guid>>().ToTable("AppUserRoles")
                 .HasKey(x => new { x.RoleId, x.UserId });
 
-            builder.Entity<IdentityUserToken<string>>().ToTable("AppUserTokens")
+            builder.Entity<IdentityUserToken<Guid>>().ToTable("AppUserTokens")
                .HasKey(x => new { x.UserId });
             //
             builder.AddConfiguration(new TagConfiguration());
@@ -75,7 +78,7 @@ namespace WebApp.Data.EF
             builder.AddConfiguration(new ProductTagConfiguration());
             builder.AddConfiguration(new SystemConfigConfiguration());
             builder.AddConfiguration(new AdvertistmentPositionConfiguration());
-            base.OnModelCreating(builder);
+            // base.OnModelCreating(builder);
         }
         public override int SaveChanges()
         {
@@ -94,6 +97,15 @@ namespace WebApp.Data.EF
                 }
             }
             return base.SaveChanges();
+        }
+    }
+    public class DesignTimeDbContextFactory : IDesignTimeDbContextFactory<AppDbContext>
+    {
+        public AppDbContext CreateDbContext(string[] args)
+        {
+            var builder = new DbContextOptionsBuilder<AppDbContext>();
+            builder.UseSqlServer("Server=DESKTOP-8N0O4EO\\SQLEXPRESS;Database=LearnMVC;User Id=sa;Password=nguvanngo;");
+            return new AppDbContext(builder.Options);
         }
     }
 }

@@ -1,0 +1,12 @@
+F:\project\LearnMVC\WebApp.Data\bin\Debug\netstandard2.0\WebApp.Data.deps.json
+F:\project\LearnMVC\WebApp.Data\bin\Debug\netstandard2.0\WebApp.Data.dll
+F:\project\LearnMVC\WebApp.Data\bin\Debug\netstandard2.0\WebApp.Data.pdb
+F:\project\LearnMVC\WebApp.Data\bin\Debug\netstandard2.0\WebApp.Infrastructure.dll
+F:\project\LearnMVC\WebApp.Data\bin\Debug\netstandard2.0\WebApp.Infrastructure.pdb
+F:\project\LearnMVC\WebApp.Data\obj\Debug\netstandard2.0\WebApp.Data.csproj.CoreCompileInputs.cache
+F:\project\LearnMVC\WebApp.Data\obj\Debug\netstandard2.0\WebApp.Data.AssemblyInfoInputs.cache
+F:\project\LearnMVC\WebApp.Data\obj\Debug\netstandard2.0\WebApp.Data.AssemblyInfo.cs
+F:\project\LearnMVC\WebApp.Data\obj\Debug\netstandard2.0\WebApp.Data.dll
+F:\project\LearnMVC\WebApp.Data\obj\Debug\netstandard2.0\WebApp.Data.pdb
+F:\project\LearnMVC\WebApp.Data\obj\Debug\netstandard2.0\WebApp.Data.csprojAssemblyReference.cache
+F:\project\LearnMVC\WebApp.Data\obj\Debug\netstandard2.0\WebApp.Data.csproj.CopyComplete

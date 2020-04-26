@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "MQnDudqg+rjvc0jbHC6vT5xi5bL8s0IoTzq9cF1B15gEAEEtKaUKr/a/VmX4cIBHXjkdNFrk8EiHxZ/lr7O3ZQ==",
+  "dgSpecHash": "MKmfPSHrrbESCy4WWhO7nkX4MyH6F3dAIr6CZX7l9B0DUk++nbM2ubr6ZXL0a9rQCwbYkqStNGylXK6YX9nphw==",
   "success": true,
   "projectFilePath": "F:\\project\\LearnMVC\\WebApp.Infrastructure\\WebApp.Infrastructure.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Hi-XV\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Hi-XV\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Hi-XV\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Hi-XV\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Hi-XV\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Hi-XV\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Hi-XV\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Hi-XV\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
   ],
   "logs": []
 }

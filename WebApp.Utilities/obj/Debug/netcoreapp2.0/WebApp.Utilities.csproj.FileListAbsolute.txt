@@ -1,0 +1,9 @@
+F:\project\LearnMVC\WebApp.Utilities\bin\Debug\netcoreapp2.0\WebApp.Utilities.deps.json
+F:\project\LearnMVC\WebApp.Utilities\bin\Debug\netcoreapp2.0\WebApp.Utilities.dll
+F:\project\LearnMVC\WebApp.Utilities\bin\Debug\netcoreapp2.0\WebApp.Utilities.pdb
+F:\project\LearnMVC\WebApp.Utilities\obj\Debug\netcoreapp2.0\WebApp.Utilities.csprojAssemblyReference.cache
+F:\project\LearnMVC\WebApp.Utilities\obj\Debug\netcoreapp2.0\WebApp.Utilities.csproj.CoreCompileInputs.cache
+F:\project\LearnMVC\WebApp.Utilities\obj\Debug\netcoreapp2.0\WebApp.Utilities.AssemblyInfoInputs.cache
+F:\project\LearnMVC\WebApp.Utilities\obj\Debug\netcoreapp2.0\WebApp.Utilities.AssemblyInfo.cs
+F:\project\LearnMVC\WebApp.Utilities\obj\Debug\netcoreapp2.0\WebApp.Utilities.dll
+F:\project\LearnMVC\WebApp.Utilities\obj\Debug\netcoreapp2.0\WebApp.Utilities.pdb

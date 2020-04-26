@@ -1,0 +1,9 @@
+F:\project\LearnMVC\WebApp.Infrastructure\bin\Debug\netstandard2.0\WebApp.Infrastructure.deps.json
+F:\project\LearnMVC\WebApp.Infrastructure\bin\Debug\netstandard2.0\WebApp.Infrastructure.dll
+F:\project\LearnMVC\WebApp.Infrastructure\bin\Debug\netstandard2.0\WebApp.Infrastructure.pdb
+F:\project\LearnMVC\WebApp.Infrastructure\obj\Debug\netstandard2.0\WebApp.Infrastructure.csproj.CoreCompileInputs.cache
+F:\project\LearnMVC\WebApp.Infrastructure\obj\Debug\netstandard2.0\WebApp.Infrastructure.AssemblyInfoInputs.cache
+F:\project\LearnMVC\WebApp.Infrastructure\obj\Debug\netstandard2.0\WebApp.Infrastructure.AssemblyInfo.cs
+F:\project\LearnMVC\WebApp.Infrastructure\obj\Debug\netstandard2.0\WebApp.Infrastructure.dll
+F:\project\LearnMVC\WebApp.Infrastructure\obj\Debug\netstandard2.0\WebApp.Infrastructure.pdb
+F:\project\LearnMVC\WebApp.Infrastructure\obj\Debug\netstandard2.0\WebApp.Infrastructure.csprojAssemblyReference.cache
