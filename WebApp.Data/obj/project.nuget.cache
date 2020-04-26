@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Y2IxIl+WhEvfDjjjEWoAb3LfA/ADt2FCkxcApU0Os+701PyaDVEHO2Kk9DCPHkfJlQz91zLG+BCRpcGKmprzOw==",
+  "dgSpecHash": "hsClxvs3YUS7nONrqJl73W2UbSfdiTrp9e/2shbGRPe8YaWOk8i2PDUlXnhZZ/ldwTE9uCxKX8XtWpea0voveQ==",
   "success": true,
   "projectFilePath": "F:\\project\\LearnMVC\\WebApp.Data\\WebApp.Data.csproj",
   "expectedPackageFiles": [
@@ -29,6 +29,7 @@
     "C:\\Users\\Hi-XV\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\2.0.0\\microsoft.entityframeworkcore.tools.2.0.0.nupkg.sha512",
     "C:\\Users\\Hi-XV\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\2.0.0\\microsoft.extensions.caching.abstractions.2.0.0.nupkg.sha512",
     "C:\\Users\\Hi-XV\\.nuget\\packages\\microsoft.extensions.caching.memory\\2.0.0\\microsoft.extensions.caching.memory.2.0.0.nupkg.sha512",
+    "C:\\Users\\Hi-XV\\.nuget\\packages\\microsoft.extensions.configuration\\2.0.0\\microsoft.extensions.configuration.2.0.0.nupkg.sha512",
     "C:\\Users\\Hi-XV\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
     "C:\\Users\\Hi-XV\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\2.0.0\\microsoft.extensions.dependencyinjection.2.0.0.nupkg.sha512",
     "C:\\Users\\Hi-XV\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",

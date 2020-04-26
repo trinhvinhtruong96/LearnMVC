@@ -13,7 +13,7 @@ using WebApp.Data.Enums;
 namespace WebApp.Data.EF.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20200426064112_initial")]
+    [Migration("20200426094616_initial")]
     partial class initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
